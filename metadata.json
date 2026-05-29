@@ -1,0 +1,8 @@
+{
+  "name": "Przystań Morsa | Restauracja Mielno",
+  "description": "Nowoczesna, nadmorska restauracja w Mielnie. Świeże ryby, owoce morza i niezapomniany bałtycki klimat. Twoje miejsce nad morzem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
